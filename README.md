@@ -2,7 +2,7 @@
 <h1>Hi, I'm Micah! <br/> Data Scientist and Data Analyst </a> </h1>
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <h3> <a href=""> Healthcare Database Management </a> </h3>
+- <h3> <a href=""> O-List E-commerce Business Analytics </a> </h3>
 📋 <i> Project Overview: </i> <br>
 This project transforms 100k+ rows of raw Brazilian e-commerce data into an interactive decision-support system. By connecting a MySQL backend to Tableau, I built dahsboards that enable stakeholders to monitor customer growth and purchasing behavior, sales and revenue trends, logistics efficiency, and sellers performance. 
 * **Data cleaning and wrangling:** I used Python to for data inspection and initial cleaning before uploading in MySQL. This help me develop the pipeline for the analysis and schema for merging of multiple tables in the O-List E-commerce dataset
