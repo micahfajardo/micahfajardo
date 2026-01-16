@@ -4,7 +4,7 @@
 
 - <h3> <a href="https://github.com/micahfajardo/olist_ecommerce_data_analysis"> O-List E-commerce Business Analytics </a> </h3>
 📋 <i> Project Overview: </i> <br>
-This project transforms 100k+ rows of raw Brazilian e-commerce data into an interactive decision-support system. By connecting a MySQL backend to Tableau, I built dahsboards that enable stakeholders to monitor customer growth and purchasing behavior, sales and revenue trends, logistics efficiency, and sellers performance. 
+This project transforms 100k+ rows of raw Brazilian e-commerce data into interactive dashboards. By connecting a MySQL backend to Tableau, I built dahsboards that enable stakeholders to monitor customer growth and purchasing behavior, sales and revenue trends, logistics efficiency, and sellers performance. 
 * **Data cleaning and wrangling:** I used Python to for data inspection and initial cleaning before uploading in MySQL. This help me develop the pipeline for the analysis and schema for merging of multiple tables in the O-List E-commerce dataset
 * **Advanced Querying:** I implemented advanced functions (e.g. window functions, CTE) to create a "master dataset" for each dashboards in Tableau
 * **Visualization:** Connected Tableau to MySQL to build interactive executive dashboards tracking
