@@ -12,7 +12,7 @@ This project transforms 100k+ rows of raw Brazilian e-commerce data into an inte
 **Python**(`os`, `pandas`, `matplotlib`, `seaborn`), **MySQL**, **Tableau**
 > *Note: Some of my dashboards are still in progress*
 > 
-- <h3> <a href=""> Healthcare Database Management </a> </h3>
+- <h3> <a href="https://github.com/micahfajardo/clinic_database_management"> Healthcare Database Management </a> </h3>
 📋 <i> Project Overview: </i> <br>
 This project involved the management and analysis of a multi-table relational healthcare database. I performed various data retrieval tasks to link patient demographics with medical records, appointments, and provider data. 
 * **Relational Mapping:** Managed Primary/Foreign Key relationships across five tables: `appointments`, `doctors`, `lifestyle`, `medical_records`, and `patients`.
