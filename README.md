@@ -10,8 +10,6 @@ This project transforms 100k+ rows of raw Brazilian e-commerce data into interac
 * **Visualization:** Connected Tableau to MySQL to build interactive executive dashboards tracking
 ### 🛠️ Tools <br>
 **Python**(`os`, `pandas`, `matplotlib`, `seaborn`), **MySQL**, **Tableau**
-> *Note: Some of my dashboards are still in progress*
-> 
 - <h3> <a href="https://github.com/micahfajardo/clinic_database_management"> Healthcare Database Management </a> </h3>
 📋 <i> Project Overview: </i> <br>
 This project involved the management and analysis of a multi-table relational healthcare database. I performed various data retrieval tasks to link patient demographics with medical records, appointments, and provider data. 
