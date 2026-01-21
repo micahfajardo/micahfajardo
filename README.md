@@ -40,7 +40,7 @@ In this project, I used **R** to clean, merge, and analyze three separate databa
  
  - <h3> Multi-Model Network Analysis of Early Diabetic Symptom Interdependencies </h3>
 📋 <i> Project Overview: </i>
-This study presents a novel analysis of symptom networks for early-stage diabetes using a clinical dataset from Sylhet, Bangladesh. To address the "black-box" limitations of traditional machine learning, we mapped how individual clinical symptoms interact and cluster to drive disease progression.
+This study presents a novel analysis of symptom networks for early-stage diabetes using a clinical dataset. To address the "black-box" limitations of traditional machine learning, we mapped how individual clinical symptoms interact and cluster to drive disease progression.
 * **Multi-Model Integration:** Implemented four distinct network construction frameworks—**IsingFit (LASSO)**, **CfsSubsetEval**, **BnLearn**, and **HNet**—to compare structural robustness in revealing symptom interactions.
 * **Centrality & Hub Identification:** Calculated network centrality metrics (Degree, Strength, Betweenness, and Closeness) to identify influential symptoms and assess structural differences across methods.
 * **Community Detection:** Applied the **Leiden algorithm** to identify clinically relevant symptom clusters (communities) that tend to occur together in Diabetes.
