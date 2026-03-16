@@ -56,7 +56,7 @@ This study implemented a computational pipeline to identify new therapeutic uses
 * **Algorithm Implementation:** Utilized **R** to execute the SAveRUNNER algorithm, quantifying the proximity between disease genes and drug targets within the human interactome.
 * **Visualization:** Transformed adjacency matrices into intuitive graph layouts using Gephi to map drug-disease overlaps.
 ### 🛠️ Tools <br>
-**Python** (`pandas`, `numpy`), **R**(SAveRUNNER), **Gephi**.
+**Python** (`pandas`, `numpy`, xml.etree.ElementTree), **R**(SAveRUNNER), **Gephi**.
 > *Note: Full source code and data pipelines are currently private. Access can be provided upon request.*
 
 
