@@ -46,7 +46,7 @@ This study presents a novel analysis of symptom networks for early-stage diabete
 * **Community Detection:** Applied the **Leiden algorithm** to identify clinically relevant symptom clusters (communities) that tend to occur together in Diabetes.
 ### 🛠️ Tools <br>
 **Python** (`pandas`, `hnet`, `bnlearn`, `leidenalg`, `ucimlrepo`, `seaborn`)
-**R** (`IsingFit`), and** Gephi**.
+**R** (`IsingFit`), and **Gephi**.
 > *Note: Full source code and data pipelines are currently private. Access can be provided upon request.*
 
  - <h3> In-Silico Drug Repurposing on Chronic Liver Diseases via Network Model </h3>
@@ -56,10 +56,19 @@ This study implemented a computational pipeline to identify new therapeutic uses
 * **Algorithm Implementation:** Utilized **R** to execute the SAveRUNNER algorithm, quantifying the proximity between disease genes and drug targets within the human interactome.
 * **Visualization:** Transformed adjacency matrices into intuitive graph layouts using Gephi to map drug-disease overlaps.
 ### 🛠️ Tools <br>
-**Python** (`pandas`, `numpy`,lxml), **R**(SAveRUNNER), **Gephi**.
+**Python** (`pandas`, `numpy`,'lxml'), **R**('SAveRUNNER'), **Gephi**.
 > *Note: Full source code and data pipelines are currently private. Access can be provided upon request.*
 
+ - <h3> <a href="https://github.com/micahfajardo/health-analytics-ml"> Machine Learning Projects on Clinical and Healthcare data </a> </h3>
+📋 Project Overview: Applied machine learning and statistical modeling on real-world clinical and health datasets, spanning regression, classification, regularization, and dimensionality reduction.
 
+* **Model Selection & Regularization**: Compared Best Subset, Forward/Backward Stepwise, Lasso, Ridge, PCR, and PLS on a diabetes progression dataset — variable selection methods achieved the best validation RMSE (54.39).
+* **Classification**: Built and evaluated Binary Logistic Regression, Multinomial Logistic Regression, LDA, KNN, and Naïve Bayes on clinical datasets using confusion matrices, sensitivity/specificity, and 10-fold cross-validation.
+* **Regression**: Modeled physician compensation, vaccination uptake, and asthma ER visits using MLR with AIC stepwise selection, polynomial regression, and Poisson GLM with population offset.
+* **Bootstrap & CLT**: Implemented manual bootstrap CI (99%) from scratch and simulated CLT convergence from a Binomial distribution across 10–10,000 repetitions.
+
+### 🛠️ Tools <br>
+**R** (`glmnet`, `leaps`, `pls`, `caret`, `MASS`, `nnet`, `e1071`, `mlbench`, `hesim`, `lars`, `corrplot`)
 
 ---
 <h2> 🤳 Connect with me:</h2>
